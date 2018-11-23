@@ -1,0 +1,121 @@
+h1 {
+	text-align: center;
+}
+
+div.father {
+	display: table;
+	width: 80%;
+	margin: 0 auto;	
+	float: none;
+	border-collapse: collapse;
+}
+
+div.daughter-row {
+	display: table-row;
+	
+}
+div.one {
+	padding: 15px 5px 5px 5px;
+	border: 1px solid black;
+	position: relative;
+	display: table-cell;
+	width: 26.6%;
+}
+div.two {
+	padding: 15px 5px 5px 5px;
+	border: 1px solid black;
+	position: relative;
+	display: table-cell;
+	width: 26.6%;
+	
+}
+div.three {
+	padding: 15px 5px 5px 5px;
+	border: 1px solid black;
+	position: relative;
+	display: table-cell;
+	width: 26.6%;
+	
+}
+h2 {
+	display: inline-block;
+	border: 1px solid black;
+	/*width: 100px;
+	height: 20px;*/
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	width: 130px;
+	height: 28px;
+	/*padding: 5px;*/
+	text-align: center;
+}
+/*@media only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px){
+        /* Section three*///
+               /* p { 
+                        display: inline-block; 
+                }
+/*@media (min-width: 992px) {*/
+	/*.colba, .colba1, .colba2 {
+		float: left;
+	}
+.colba {
+	width: 40%;
+}
+.colba1 {
+	width: 40%;
+}
+.colba2 {
+	width: 20%;
+}
+}*/
+/*@media (min-width: 768px) and (max-width: 991px) {
+.colba {
+	width: 40%;
+}
+.colba1 {
+	width: 40%;
+}
+.colba2 {
+	width: 80%;
+}
+}
+@media (max-width: 767px) {
+.colba {
+	width: 100%;
+}
+.colba1 {
+	width: 100%;
+}
+.colba2 {
+	width: 100%;
+}
+}
+/*.col-1 {
+	float: left;
+	width: 33.3%;
+	padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media only screen and (max-width: 992px) {
+.col-1 {
+	width: 50%;
+		}
+}
+
+* {
+    box-sizing: border-box;
+}
+td.colba {
+ border-right: 1px;
+}
+td.colba2 {
+	border-right: 1px;
+}*/
